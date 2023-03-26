@@ -1,0 +1,6 @@
+@font-face {
+	font-family:'DIN-Ligth';
+	src: url('din-pro-6.woff') format('woff');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Open+Sans:wght@300;600&display=swap');
